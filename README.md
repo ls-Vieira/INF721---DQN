@@ -32,7 +32,7 @@
 
 1.   baixe o repositório em sua máquina local.
 2.   Abra um editor de código
-3.   Execute o arquivo inf721_train.py alterando nele qual ambiente gostaria de testar, e os parâmetos disponíveis na apresentação: 
+3.   Execute o arquivo inf721_train.py alterando nele qual ambiente gostaria de testar, e os parâmetos disponíveis na apresentação: https://docs.google.com/presentation/d/1Y8gpoQe_vInr43thjJrwgsMKxyF3ao6HkJenPIQBfbU/edit?usp=sharing 
 ```
   $ python3 inf721_train.py
 ```
